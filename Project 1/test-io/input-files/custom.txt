@@ -1,0 +1,7 @@
+6
+insert "A" 30000000
+insert "B" 20000000
+insert "C" 31000000
+insert "D" 23000000
+remove 20000000
+printInorder
